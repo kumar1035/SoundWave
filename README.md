@@ -1,5 +1,3 @@
 # A SoundWave project  in NextJS
 
-
-## contributon
-No need to make any PR in this repo. Specially DO NOT touch the README.md file
+better luck next time 
