@@ -1,3 +1,2 @@
 # A SoundWave project  in NextJS
-
-better luck next time 
+ lets build something new 
